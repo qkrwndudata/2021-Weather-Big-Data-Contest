@@ -23,7 +23,7 @@ Analysis of the Weather Big Data Contest hosted by the Korea Meteorological Admi
     4) 결과 활용 방안 등
     ---
     
-### [TEAM 비온뒤맑음의 분석] (https://github.com/qkrwndudata/2022-Weather-Big-Data-Contest/tree/main/ppt)
+### [TEAM 비온뒤맑음의 분석]
 ![image](https://user-images.githubusercontent.com/79184083/215085492-b58be92e-e2a7-4853-8c42-bfe0b3b04cdd.png)
 
 - 주제: 다류시장의 활성화 전략 제시
