@@ -39,3 +39,6 @@ Analysis of the Weather Big Data Contest hosted by the Korea Meteorological Admi
 - 인사이트 및 제안: 날씨 데이터 분석 기반 마케팅 전략 제시
   1) 다류 품목의 MB-Tea-I 유형 제시를 통한 효과적인 브랜딩
   2) 수요 예측 모델을 통한 효과적인 마케팅 전략 수립
+
+
+보다 자세한 내용은 [여기](https://github.com/qkrwndudata/2022-Weather-Big-Data-Contest/tree/main/ppt)를 확인하세요
