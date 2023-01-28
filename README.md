@@ -33,7 +33,7 @@ Analysis of the Weather Big Data Contest hosted by the Korea Meteorological Admi
 - 분석 기법
   1) 음료 시장 Clustering
   2) 군집 별 Multi Linear Regression
-  3) 군집 별 NLP Analysis: 감성 분석
+  3) 군집 별 NLP Analysis: 크롤링 / 감성 분석
   4) 수요량 예측 모델링: Bayesian Varaiables Selection
 
 - 인사이트 및 제안: 날씨 데이터 분석 기반 마케팅 전략 제시
