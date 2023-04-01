@@ -1,5 +1,5 @@
 # 2021-Weather-Big-Data-Contest
-Analysis of the Weather Big Data Contest hosted by the Korea Meteorological Administration in 2022
+Analysis of the Weather Big Data Contest hosted by the Korea Meteorological Administration in 2021
 
 
 - **팀명 :** 비온뒤맑음
