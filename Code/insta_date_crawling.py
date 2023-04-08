@@ -111,4 +111,3 @@ while True:
         time.sleep(2)
 
 test = pd.DataFrame.from_dict(insta_dict)
-test.to_csv('insta_자취.csv')
