@@ -1,4 +1,6 @@
-# 인스타 해시태그 크롤링
+## 인스타그램에 해시태그를 입력해 나오는 게시글을 크롤링하는 코드입니다.
+
+# 라이브러리 호출
 import time
 import os
 from selenium import webdriver
